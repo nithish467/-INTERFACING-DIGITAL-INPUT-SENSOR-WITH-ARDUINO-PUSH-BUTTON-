@@ -110,7 +110,6 @@ void loop()
 
 ## OUTPUT OF SIMULATION :
 
-[My image](username.github.com/repository/img/image.jpg)
 
 IN ON:
 ![image](https://github.com/nithish467/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/150232274/f506fec0-fcc3-48db-b6c9-98b1868bfe69)
